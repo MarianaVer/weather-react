@@ -13,7 +13,10 @@ root.render(
     <div className="App">
       <Weather />
       <p>
-        <a href="/">Open-source code</a> by Mariana Koval
+        <a href="https://github.com/MarianaVer/weather-react">
+          Open-source code
+        </a>{" "}
+        by Mariana Koval
       </p>
     </div>
   </StrictMode>
